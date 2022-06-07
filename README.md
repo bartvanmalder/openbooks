@@ -1,4 +1,4 @@
-# openbooks
+# openbooks repo
 Opensource notebook POC.  
 
 This is a sample notebook to demonstrate how it can be viewed AND run on open notebook platforms like JupyterLab-Binder (https://jupyter.org/binder).
